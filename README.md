@@ -21,7 +21,7 @@ The goal of this system is to help individuals and communities connect with one 
 MSSQL, Amazon RDS, Express, React, Node.js
 
 ## Features
-Our web application will include the following features:
+Our web application includes the following features:
 
 ### Events
 The ability to create, read, update, and delete events. Each event will have a date and time, venue, description, capacity, attendee restrictions, and the ability to locate the venue in Google Maps. Each event will have the option of including tags and keywords, by which events can be filtered. 
